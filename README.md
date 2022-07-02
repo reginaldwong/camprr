@@ -14,4 +14,4 @@ This project was created using Bootstrap and CSS on the front end and Node.js, E
 
 # Demo
 
-View live demo: https://morning-chamber-99563.herokuapp.com/campgrounds
+View live demo: https://morning-chamber-99563.herokuapp.com/
