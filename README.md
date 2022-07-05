@@ -1,6 +1,6 @@
 # Camprr
 
-Camprr is a full stack web application that lets users create and review campgrounds. Users must have an account in order to review or submit a campground.
+Camprr is a full stack web application that lets users register an account to create and review campgrounds. Users must have an account in order to review or submit a campground.
 
 This project was created using Bootstrap and CSS on the front end and Node.js, Express, and MongoDB on the backend. Authentication is handled with Passport.js.
 
